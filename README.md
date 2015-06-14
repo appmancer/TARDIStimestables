@@ -6,3 +6,5 @@ https://hackaday.io/project/6239-tardis-times-tables
 
 Bitmaps are Copyright (c) Tim Doyle 2014 and are used with permission. 
 www.NakatomiInc.com
+
+The Doctor Who series and characters appearing thereon are copyrighted by the BBC. The term "TARDIS" is trademarked by the BBC. The Daleks are trademarked by Terry Nation.
